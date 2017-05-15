@@ -9,6 +9,8 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 ## Papers
 
 * [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf), David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel and Demis Hassabis. Nature, vol. 529, January 2016.
+* [Learning to Act by Predicting the Future](https://openreview.net/forum?id=rJLS7qKel), Alexey Dosovitskiy and Vladlen Koltun. ICLR 2017.
+* 
 
 ## Github repositories
 
@@ -16,6 +18,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Videos
 
+## Blog posts
 
 
 
