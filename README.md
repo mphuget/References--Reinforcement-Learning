@@ -4,7 +4,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Books
 
-* Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto. MIT Press, [1st edition (1998)] (http://incompleteideas.net/sutton/book/the-book-1st.html) [2nd edition (2017 in progress)] (http://incompleteideas.net/sutton/book/the-book-2nd.html)
+* Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto. MIT Press, [1st edition 1998](http://incompleteideas.net/sutton/book/the-book-1st.html) [2nd edition 2017 in progress](http://incompleteideas.net/sutton/book/the-book-2nd.html)
 
 ## Papers
 
