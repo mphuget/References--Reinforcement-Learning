@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Papers
+# State of the art on Reinforcement-Learning
 
 This repository corresponds to the state of the art, I will do on Reinforcement Learning
 
@@ -11,6 +11,10 @@ This repository corresponds to the state of the art, I will do on Reinforcement 
 * Mastering the Game of Go with Deep Neural Networks and Tree Search, David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel and Demis Hassabis. Nature, vol. 529, January 2016 [access](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
 
 ## Github repositories
+
+* [vmayoral] (https://github.com/vmayoral/basic_reinforcement_learning)
+
+## Videos
 
 
 
