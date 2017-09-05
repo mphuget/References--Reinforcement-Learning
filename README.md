@@ -40,6 +40,10 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * https://github.com/yenchenlin/DeepLearningFlappyBird
 * https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
 
+### Pong and Reinforcement Learning
+
+* http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
+
 ## Videos
 
 ## Blog posts
