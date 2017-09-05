@@ -43,6 +43,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 ### Pong and Reinforcement Learning
 
 * http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
+* https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 
 ## Videos
 
