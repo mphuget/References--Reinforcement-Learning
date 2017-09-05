@@ -49,6 +49,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 * https://github.com/devsisters/DQN-tensorflow
 * https://github.com/songrotek/DQN-Atari-Tensorflow
+* https://github.com/coreylynch/async-rl
 
 ## Videos
 
