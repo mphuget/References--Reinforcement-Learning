@@ -32,7 +32,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Github repositories
 
-* [vmayoral] (https://github.com/vmayoral/basic_reinforcement_learning)
+* [vmayoral](https://github.com/vmayoral/basic_reinforcement_learning)
 
 ### Flappy Bird and Reinforcement Learning
 
