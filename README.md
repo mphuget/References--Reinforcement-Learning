@@ -45,6 +45,11 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
 * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
 
+### Breakout and Reinforcement Learning
+
+* https://github.com/devsisters/DQN-tensorflow
+* https://github.com/songrotek/DQN-Atari-Tensorflow
+
 ## Videos
 
 ## Blog posts
