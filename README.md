@@ -51,6 +51,11 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * https://github.com/songrotek/DQN-Atari-Tensorflow
 * https://github.com/coreylynch/async-rl
 
+### Snake and Reinforcement Learning
+
+* https://github.com/danielegrattarola/deep-q-snake
+
+
 ## Videos
 
 ## Blog posts
