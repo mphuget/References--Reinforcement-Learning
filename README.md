@@ -12,6 +12,8 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf), David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel and Demis Hassabis. Nature, vol. 529, January 2016.
 * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866), Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, and Anil Anthony Bharath. IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding.
 * [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902), Niels Justesen, Philip Bontrager, Julian Togelius, and Sebastian Risi.
+* [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/abs/1609.05518), Marta Garnelo, Kai Arulkumaran, Murray Shanahan.
+* [Multi-task learning with deep model based reinforcement learning](https://arxiv.org/abs/1611.01457), Asier Mujika.
 
 ### Symbolic Reinforcement Learning
 
