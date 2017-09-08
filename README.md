@@ -17,6 +17,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203), Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, Daan Wierstra.
 * [Playing FPS Games with Deep Reinforcement Learning](https://arxiv.org/abs/1609.0552), Guillaume Lample, Devendra Singh Chaplot.
 * [Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search](https://arxiv.org/abs/1610.00673), Ali Yahya, Adrian Li, Mrinal Kalakrishnan, Yevgen Chebotar, Sergey Levine.
+* [Learning to compose words into sentences with Reinforcement Learning](https://arxiv.org/abs/1611.09100), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling.
 
 ### Symbolic Reinforcement Learning
 
