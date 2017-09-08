@@ -32,7 +32,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 ### Multiagent Reinforcement Learning
 
 * [Multiagent Reinforcement Learning: an Overview](https://pdfs.semanticscholar.org/d96d/a4ac9f78924871c3c4d0dece0b84884fe483.pdf), L. Busoniu, R. Babuska, and B. De Schutter, “Multi-agent reinforcement learning: An overview,” Chapter 7 in Innovations in Multi-Agent Systems and Applications – 1 (D. Srinivasan and L.C. Jain, eds.), vol. 310 of Studies in Computational Intelligence, Berlin, Germany: Springer, pp. 183–221, 2010. 
-* [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1709.06600), Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Karl Tuyls, Thore Graepel.
+* [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1707.06600), Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Karl Tuyls, Thore Graepel.
 
 ## Github repositories
 
