@@ -14,6 +14,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902), Niels Justesen, Philip Bontrager, Julian Togelius, and Sebastian Risi.
 * [Towards Deep Symbolic Reinforcement Learning](https://arxiv.org/abs/1609.05518), Marta Garnelo, Kai Arulkumaran, Murray Shanahan.
 * [Multi-task learning with deep model based reinforcement learning](https://arxiv.org/abs/1611.01457), Asier Mujika.
+* [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203), Théophane Weber, Sébastien Racanière, David P. Reichert, Lars Buesing, Arthur Guez, Danilo Jimenez Rezende, Adria Puigdomènech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, Razvan Pascanu, Peter Battaglia, David Silver, Daan Wierstra.
 
 ### Symbolic Reinforcement Learning
 
@@ -31,6 +32,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 ### Multiagent Reinforcement Learning
 
 * [Multiagent Reinforcement Learning: an Overview](https://pdfs.semanticscholar.org/d96d/a4ac9f78924871c3c4d0dece0b84884fe483.pdf), L. Busoniu, R. Babuska, and B. De Schutter, “Multi-agent reinforcement learning: An overview,” Chapter 7 in Innovations in Multi-Agent Systems and Applications – 1 (D. Srinivasan and L.C. Jain, eds.), vol. 310 of Studies in Computational Intelligence, Berlin, Germany: Springer, pp. 183–221, 2010. 
+* [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1709.06600), Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Karl Tuyls, Thore Graepel.
 
 ## Github repositories
 
