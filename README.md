@@ -18,6 +18,10 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Playing FPS Games with Deep Reinforcement Learning](https://arxiv.org/abs/1609.0552), Guillaume Lample, Devendra Singh Chaplot.
 * [Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search](https://arxiv.org/abs/1610.00673), Ali Yahya, Adrian Li, Mrinal Kalakrishnan, Yevgen Chebotar, Sergey Levine.
 * [Learning to compose words into sentences with Reinforcement Learning](https://arxiv.org/abs/1611.09100), Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling.
+* [Reinforcement Learning approach for Real Time Strategy Games Battle City and S3](https://arxiv.org/abs/1602.04936), Harshit Sethy, Amit Patel.
+* [Extending the OpenAI Gym for robotics: a toolkit for reinforcement learning using ROS and Gazebo](https://arxiv.org/abs/1608.05742), Iker Zamora, Nestor Gonzalez Lopez, Victor Mayoral Vilches, Alejandro Hernandez Cordero.
+* [Deep Reinforcement Learning with Macro-Actions](https://arxiv.org/abs/1606.04615), Ishan P. Durugkar, Clemens Rosenbaum, Stefan Dernbach, Sridhar Mahadevan.
+* [Deep Reinforcement Learning: an Overview](https://arxiv.org/abs/1701.07274), Yuxi Li.
 
 ### Symbolic Reinforcement Learning
 
@@ -40,6 +44,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 ### Continuous Space Reinforcement Learning
 
 * [Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html), Xue Bin Peng, Glen Berseth, Michiel van den Panne, ACM Transactions on Graphics, volume 35 number 4, 2016.
+
 ## Github repositories
 
 * [vmayoral](https://github.com/vmayoral/basic_reinforcement_learning)
