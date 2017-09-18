@@ -22,6 +22,8 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Extending the OpenAI Gym for robotics: a toolkit for reinforcement learning using ROS and Gazebo](https://arxiv.org/abs/1608.05742), Iker Zamora, Nestor Gonzalez Lopez, Victor Mayoral Vilches, Alejandro Hernandez Cordero.
 * [Deep Reinforcement Learning with Macro-Actions](https://arxiv.org/abs/1606.04615), Ishan P. Durugkar, Clemens Rosenbaum, Stefan Dernbach, Sridhar Mahadevan.
 * [Deep Reinforcement Learning: an Overview](https://arxiv.org/abs/1701.07274), Yuxi Li.
+* [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170), Razvan Pascanu, Yujia Li, Oriol Vinyals, Nicolas Heess, Lars Buesing, Sebastien Racanière, David Reichert,Théophane Weber, Daan Wierstra, Peter Battaglia.
+
 
 ### Symbolic Reinforcement Learning
 
