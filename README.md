@@ -49,6 +49,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 ### Continuous Space Reinforcement Learning
 
 * [Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html), Xue Bin Peng, Glen Berseth, Michiel van den Panne, ACM Transactions on Graphics, volume 35 number 4, 2016.
+* [Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation](https://arxiv.org/abs/1703.00420), Lei Tai, Giuseppe Paolo, Ming Liu.
 
 ## Github repositories
 
