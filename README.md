@@ -26,6 +26,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Learning from Demonstrations for Real World Reinforcement Learning](https://arxiv.org/abs/1704.03732), Todd Hester, Matej Vecerik, Olivier Pietquin, Marc Lanctot, Tom Schaul, Bilal Piot, Dan Horgan, John Quan, Andrew Sendonaris, Gabriel Dulac-Arnold, Ian Osband, John Agapiou, Joel Z. Leibo, Audrunas Gruslys.
 * [Unifying Task Specification in Reinforcement Learning](https://arxiv.org/abs/1609.01995), Martha White.
 * [ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games](https://arxiv.org/abs/1707.01067), Yuandong Tian, Qucheng Gong, Wenling Shang, Yuxin Wu, Larry Zitnick.
+* [Learning Macromanagement in StarCraft from Replays using Deep Learning](https://arxiv.org/abs/1707.03743), Niels Justesen, Sebastian Risi.
 
 
 ### Symbolic Reinforcement Learning
