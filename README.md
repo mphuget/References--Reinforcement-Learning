@@ -27,6 +27,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Unifying Task Specification in Reinforcement Learning](https://arxiv.org/abs/1609.01995), Martha White.
 * [ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games](https://arxiv.org/abs/1707.01067), Yuandong Tian, Qucheng Gong, Wenling Shang, Yuxin Wu, Larry Zitnick.
 * [Learning Macromanagement in StarCraft from Replays using Deep Learning](https://arxiv.org/abs/1707.03743), Niels Justesen, Sebastian Risi.
+* [The Atari Grand Challenge Dataset](https://arxiv.org/abs/1705.10998), Vitaly Kurin, Sebastian Nowozin, Katja Hofmann, Lucas Beyer, Bastian Leibe.
 
 
 ### Symbolic Reinforcement Learning
