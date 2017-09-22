@@ -32,6 +32,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Reinforcement Learning with a Corrupted Reward Channel](https://arxiv.org/abs/1705.08417), Tom Everitt, Victoria Krakovna, Laurent Orseau, Marcus Hutter, Shane Legg.
 * [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892), Ofir Nachum, Mohammad Norouzi, Kelvin Xu, Dale Schuurmans.
 * [Algorithm Selection for Reinforcement Learning](https://arxiv.org/abs/1701.08810), Romain Laroche, Raphael Feraud.
+* [On-line Building Energy Optimization using Deep Reinforcement Learning](https://arxiv.org/abs/1707.05878), Elena Mocanu, Decebal Constantin Mocanu, Phuong H. Nguyen, Antonio Liotta, Michael E. Webber, Madeleine Gibescu, J.G. Slootweg.
 
 
 ### Symbolic Reinforcement Learning
