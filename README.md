@@ -30,6 +30,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [The Atari Grand Challenge Dataset](https://arxiv.org/abs/1705.10998), Vitaly Kurin, Sebastian Nowozin, Katja Hofmann, Lucas Beyer, Bastian Leibe.
 * [Experience Replay Using Transition Sequences](https://arxiv.org/abs/1705.10834), Thommen George Karimpanal, Roland Bouffanais.
 * [Reinforcement Learning with a Corrupted Reward Channel](https://arxiv.org/abs/1705.08417), Tom Everitt, Victoria Krakovna, Laurent Orseau, Marcus Hutter, Shane Legg.
+* [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892), Ofir Nachum, Mohammad Norouzi, Kelvin Xu, Dale Schuurmans.
 
 
 ### Symbolic Reinforcement Learning
