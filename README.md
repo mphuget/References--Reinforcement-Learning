@@ -34,7 +34,8 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Algorithm Selection for Reinforcement Learning](https://arxiv.org/abs/1701.08810), Romain Laroche, Raphael Feraud.
 * [On-line Building Energy Optimization using Deep Reinforcement Learning](https://arxiv.org/abs/1707.05878), Elena Mocanu, Decebal Constantin Mocanu, Phuong H. Nguyen, Antonio Liotta, Michael E. Webber, Madeleine Gibescu, J.G. Slootweg.
 * [Task-Oriented Query Reformulation with Reinforcement Learning](https://arxiv.org/abs/1704.04572), Rodrigo Nogueira, Kyunghyun Cho.
-* [Inverse Reinforcement Learning under Noisy Observations](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1733.pdf), Shervin Shahryari, Pradant Doshi. In Proceedings of AAMAS 2017, p. 1733-1735.
+* [Inverse Reinforcement Learning under Noisy Observations](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1733.pdf), Shervin Shahryari, Pradant Doshi. In Proceedings of AAMAS 2017, pp. 1733-1735.
+* [Speeding up Tabular Reinforcement Learning Using State-Action Similarities](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1722.pdf), Ariel Rosenfeld, Matthew E. Taylor, Sarit Kraus. In Proceedings of AAMAS 2017, pp. 1722-1724.
 
 
 ### Symbolic Reinforcement Learning
