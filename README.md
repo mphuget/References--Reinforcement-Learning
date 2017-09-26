@@ -36,6 +36,9 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Task-Oriented Query Reformulation with Reinforcement Learning](https://arxiv.org/abs/1704.04572), Rodrigo Nogueira, Kyunghyun Cho.
 * [Inverse Reinforcement Learning under Noisy Observations](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1733.pdf), Shervin Shahryari, Pradant Doshi. In Proceedings of AAMAS 2017, pp. 1733-1735.
 * [Speeding up Tabular Reinforcement Learning Using State-Action Similarities](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1722.pdf), Ariel Rosenfeld, Matthew E. Taylor, Sarit Kraus. In Proceedings of AAMAS 2017, pp. 1722-1724.
+* [Analysing Congestion Problems in Multi-agent Reinforcement Learning](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1705.pdf), Roxana Radulescu, Peter Vrancx, Ann Nowé. In Proceedings of AAMAS 2017, pp. 1705-1707.
+
+
 
 
 ### Symbolic Reinforcement Learning
