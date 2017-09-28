@@ -60,6 +60,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Multiagent Reinforcement Learning: an Overview](https://pdfs.semanticscholar.org/d96d/a4ac9f78924871c3c4d0dece0b84884fe483.pdf), L. Busoniu, R. Babuska, and B. De Schutter, “Multi-agent reinforcement learning: An overview,” Chapter 7 in Innovations in Multi-Agent Systems and Applications – 1 (D. Srinivasan and L.C. Jain, eds.), vol. 310 of Studies in Computational Intelligence, Berlin, Germany: Springer, pp. 183–221, 2010. 
 * [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1707.06600), Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Karl Tuyls, Thore Graepel.
 * [Counterfactual Multi-agent Policy Gradients](https://arxiv.org/abs/1705.08926), Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson.
+* [Inverse Reinforcement Learning in Swarm Systems](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1413.pdf), Adrian Šoši c, Wasiur R. KhudaBukhsh, Abdelhak M. Zoubir and Heinz Koepp.In Proceedings of AAMAS 2017, pp. 1413-1421.
 
 ### Continuous Space Reinforcement Learning
 
