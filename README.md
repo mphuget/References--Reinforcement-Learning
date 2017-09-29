@@ -62,6 +62,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Counterfactual Multi-agent Policy Gradients](https://arxiv.org/abs/1705.08926), Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson.
 * [Inverse Reinforcement Learning in Swarm Systems](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1413.pdf), Adrian Šoši c, Wasiur R. KhudaBukhsh, Abdelhak M. Zoubir and Heinz Koepp.In Proceedings of AAMAS 2017, pp. 1413-1421.
 * [Simultaneously Learning and Advising in Multiagent Reinforcement Learning](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1100.pdf), Felipe Leno da Silva, Ruben Glatt, and Anna Helena Reali Costa. In Proceedings of AAMAS 2017, pp. 1100-1108).
+* [Reinforcement Learning for Multi-Step Expert Advice](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p962.pdf), Patrick Philipp, Achim Rettinger. In Proceedings of AAMAS 2017, pp. 962-971.
 
 
 ### Continuous Space Reinforcement Learning
