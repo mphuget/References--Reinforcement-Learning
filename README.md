@@ -50,6 +50,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 * [Learning to Act by Predicting the Future](https://openreview.net/forum?id=rJLS7qKel), Alexey Dosovitskiy and Vladlen Koltun. ICLR 2017.
 * [The Predictron: End-to-End Learning and Planning](https://arxiv.org/abs/1612.08810), David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, André Barreto and Thomas Degris.
+* [Pick and Place Without Geometric Object Models](https://arxiv.org/abs/1707.05615), Marcus Gualtieri, Andreas ten Pas, Robert Platt.
 
 ### Multitask Reinforcement Learning
 
