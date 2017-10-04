@@ -39,7 +39,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Analysing Congestion Problems in Multi-agent Reinforcement Learning](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1705.pdf), Roxana Radulescu, Peter Vrancx, Ann Nowé. In Proceedings of AAMAS 2017, pp. 1705-1707.
 * [Autonomous Model Management via Reinforcement Learning](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1601.pdf), Elad Liebman, Eric Zavesky, Peter Stone. In Proceedings of AAMAS 2017, pp. 1601-1603.
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), Chelsea Finn, Pieter Abbeel, Sergey Levine.
-
+* [Trial without Error: Towards Safe Reinforcement Learning via Human Intervention](https://arxiv.org/abs/1707.05173), William Saunders, Girish Sastry, Andreas Stuhlmueller, Owain Evans.
 
 
 ### Symbolic Reinforcement Learning
