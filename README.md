@@ -41,6 +41,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400), Chelsea Finn, Pieter Abbeel, Sergey Levine.
 * [Trial without Error: Towards Safe Reinforcement Learning via Human Intervention](https://arxiv.org/abs/1707.05173), William Saunders, Girish Sastry, Andreas Stuhlmueller, Owain Evans.
 * [Reverse Curriculum Generation for Reinforcement Learning](https://arxiv.org/abs/1707.05300), Carlos Florensa, David Held, Markus Wulfmeier, Pieter Abbeel.
+* [Tracking as Online Decision-Making: Learning a Policy from Streaming Videos with Reinforcement Learning](https://arxiv.org/abs/1707.04991), James Steven Supancic III, Deva Ramanan.
 
 
 
