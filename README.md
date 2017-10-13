@@ -43,7 +43,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Reverse Curriculum Generation for Reinforcement Learning](https://arxiv.org/abs/1707.05300), Carlos Florensa, David Held, Markus Wulfmeier, Pieter Abbeel.
 * [Tracking as Online Decision-Making: Learning a Policy from Streaming Videos with Reinforcement Learning](https://arxiv.org/abs/1707.04991), James Steven Supancic III, Deva Ramanan.
 * [Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110), Jemin Hwangbo, Inkyu Sa, Roland Siegwart, Marco Hutter.
-
+* [Reinforcement Learning for Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873), Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang.
 
 ### Symbolic Reinforcement Learning
 
