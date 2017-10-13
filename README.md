@@ -45,6 +45,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110), Jemin Hwangbo, Inkyu Sa, Roland Siegwart, Marco Hutter.
 * [Reinforcement Learning for Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873), Han Cai, Tianyao Chen, Weinan Zhang, Yong Yu, Jun Wang.
 * [Sentence Simplification with Deep Reinforcement Learning](https://arxiv.org/abs/1703.10931), Xingxing Zhang, Mirella Lapata.
+* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/abs/1706.06210), Paweł Budzianowski, Stefan Ultes, Pei-Hao Su, Nikola Mrkšić, Tsung-Hsien Wen, Iñigo Casanueva, Lina Rojas-Barahona, Milica Gašić.
 
 ### Symbolic Reinforcement Learning
 
