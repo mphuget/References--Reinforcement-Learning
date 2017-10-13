@@ -42,7 +42,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Trial without Error: Towards Safe Reinforcement Learning via Human Intervention](https://arxiv.org/abs/1707.05173), William Saunders, Girish Sastry, Andreas Stuhlmueller, Owain Evans.
 * [Reverse Curriculum Generation for Reinforcement Learning](https://arxiv.org/abs/1707.05300), Carlos Florensa, David Held, Markus Wulfmeier, Pieter Abbeel.
 * [Tracking as Online Decision-Making: Learning a Policy from Streaming Videos with Reinforcement Learning](https://arxiv.org/abs/1707.04991), James Steven Supancic III, Deva Ramanan.
-
+* [Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110), Jemin Hwangbo, Inkyu Sa, Roland Siegwart, Marco Hutter.
 
 
 ### Symbolic Reinforcement Learning
@@ -54,6 +54,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Learning to Act by Predicting the Future](https://openreview.net/forum?id=rJLS7qKel), Alexey Dosovitskiy and Vladlen Koltun. ICLR 2017.
 * [The Predictron: End-to-End Learning and Planning](https://arxiv.org/abs/1612.08810), David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, André Barreto and Thomas Degris.
 * [Pick and Place Without Geometric Object Models](https://arxiv.org/abs/1707.05615), Marcus Gualtieri, Andreas ten Pas, Robert Platt.
+
 
 ### Multitask Reinforcement Learning
 
