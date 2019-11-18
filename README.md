@@ -9,6 +9,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Automated Augmentation with Reinforcement Learning and GANs for Robust Identification of Traffic Signs using Front Camera Images](https://arxiv.org/abs/1911.06486), Sohini Roy Chowdhury, Lars Tornberg, Robin Halvfordsson, Jonatan Nordh, Adam Suhren Gustafsson, Joel Wall, Mattias Westerberg, Adam Wirehed, Louis Tilloy, Zhanying Hu, Haoyuan Tan, Meng Pan, and Jonas Sjoberg. arXiv:1911.06486, submitted November 2019.
 * [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf), David Silver, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel and Demis Hassabis. Nature, vol. 529, January 2016.
 * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866), Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, and Anil Anthony Bharath. IEEE Signal Processing Magazine, Special Issue on Deep Learning for Image Understanding.
 * [Deep Learning for Video Game Playing](https://arxiv.org/abs/1708.07902), Niels Justesen, Philip Bontrager, Julian Togelius, and Sebastian Risi.
@@ -72,7 +73,6 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Simultaneously Learning and Advising in Multiagent Reinforcement Learning](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p1100.pdf), Felipe Leno da Silva, Ruben Glatt, and Anna Helena Reali Costa. In Proceedings of AAMAS 2017, pp. 1100-1108).
 * [Reinforcement Learning for Multi-Step Expert Advice](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p962.pdf), Patrick Philipp, Achim Rettinger. In Proceedings of AAMAS 2017, pp. 962-971.
 * [Reward Shaping in Episodic Reinforcement Learning](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p565.pdf), Marek Grzes. In Proceedings of AAMAS 2017, pp. 565-573.
-
 
 ### Continuous Space Reinforcement Learning
 
