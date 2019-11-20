@@ -9,6 +9,10 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Adversarial Inverse Reinforcement Learning for Decision Making in Autonomous Driving](https://arxiv.org/abs/1911.08044). Pin Wang, Dapeng Liu, Jiayu Chen, and Ching-Yao Chan. arXiv:1911.08044, submitted November 2019.
+* [Attention Privileged Reinforcement Learning For Domain Transfer](https://arxiv.org/abs/1911.08363). Sasha Salter, Dushyant Rao, Markus Wulfmeier, Raia Hadsell, and Ingmar Posner. arXiv:1911.08363, submitted November 2019.
+* [Deep Tile Coder: an Efficient Sparse Representation Learning Approach with applications in Reinforcement Learning](https://arxiv.org/abs/1911.08068). Yangchen Pan. arXiv:1911.08068, submitted November 2019.
+* [Placement Optimization of Aerial Base Stations with Deep Reinforcement Learning](https://arxiv.org/abs/1911.08111). Jin Qiu, Jiangbin Lyu, and Liqun Fu. arXiv:1911.08111, submitted November 2019.
 * [Inducing Cooperation via Team Regret Minimization based Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1911.07712), Runsheng Yu, Zhenyu Shi, Xinrun Wang, Rundong Wang, Buhong Liu, Xinwen Hou, Hanjiang Lai, and Bo An. arXiv:1911.07712, submitted November 2019
 * [Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation](https://arxiv.org/abs/1911.07450), Juncheng Li, Xin Wang, Siliang Tang, Haizhou Shi, Fei Wu, Yueting Zhuang, and William Yang Wang. arXiv:1911.07450, submitted November 2019
 * [Improved Exploration through Latent Trajectory Optimization in Deep Deterministic Policy Gradient](https://arxiv.org/abs/1911.06833), Kevin Sebastian Luck, Mel Vecerik, Simon Stepputtis, Heni Ben Amor, and Jonathan Scholz. arXiv:1911.06833, submitted November 2019
