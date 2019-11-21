@@ -9,6 +9,12 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Generalizable Resource Allocation in Stream Processing via Deep Reinforcement Learning](https://arxiv.org/abs/1911.08517). Xiang Ni, Jing Li, Mo Yu, Wang Zhou, and Kun-Lung Wu. arXiv:1911.08517, submitted November 2019.
+* [Solving Online Threat Screening Games using Constrained Action Space Reinforcement Learning](https://arxiv.org/abs/1911.08799). Sanket Shah, Arunesh Sinha, Pradeep Varakantham, Andrew Perrault, and Milind Tambe. arXiv:1911.08799, submitted November 2019.
+* [Efficient decorrelation of features using Gramian in Reinforcement Learning](https://arxiv.org/abs/1911.08610).Borislav Mavrin, Daniel Graves, and Alan Chan. arXiv:1911.08610, submitted November 2019.
+* [Corruption Robust Exploration in Episodic Reinforcement Learning](https://arxiv.org/abs/1911.08689). Thodoris Lykouris, Max Simchowitz, Aleksandrs Slivkins, and Wen Sun. arXiv:1911.08689, submitted November 2019.
+* [Deep Reinforcement Learning with Explicitly Represented Knowledge and Variable State and Action Spaces](https://arxiv.org/abs/1911.08756). Jaromír Janisch, Tomáš Pevný, and Viliam Lisý. arXiv:1911.08756, submitted November 2019.
+* [Hierarchical Average Reward Policy Gradient Algorithms](https://arxiv.org/abs/1911.08826). Akshay Dharmavaram, Matthew Riemer, and Shalabh Bhatnagar. arXiv:1911.08826, submitted November 2019.
 * [Adversarial Inverse Reinforcement Learning for Decision Making in Autonomous Driving](https://arxiv.org/abs/1911.08044). Pin Wang, Dapeng Liu, Jiayu Chen, and Ching-Yao Chan. arXiv:1911.08044, submitted November 2019.
 * [Attention Privileged Reinforcement Learning For Domain Transfer](https://arxiv.org/abs/1911.08363). Sasha Salter, Dushyant Rao, Markus Wulfmeier, Raia Hadsell, and Ingmar Posner. arXiv:1911.08363, submitted November 2019.
 * [Deep Tile Coder: an Efficient Sparse Representation Learning Approach with applications in Reinforcement Learning](https://arxiv.org/abs/1911.08068). Yangchen Pan. arXiv:1911.08068, submitted November 2019.
