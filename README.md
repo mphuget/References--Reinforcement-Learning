@@ -9,6 +9,8 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Information-Theoretic Confidence Bounds for Reinforcement Learning](https://arxiv.org/abs/1911.09724). Xiuyuan Lu, and Benjamin Van Roy. arXiv:1911.09724, submitted November 2019.
+* [Efficient Exploration through Intrinsic Motivation Learning for Unsupervised Subgoal Discovery in Model-Free Hierarchical Reinforcement Learning](https://arxiv.org/abs/1911.10164). Jacob Rafati, and David C. Noelle. arXiv:1911.10164, submitted November 2019.
 * [Contextual Reinforcement Learning of Visuo-tactile Multi-fingered Grasping Policies](https://arxiv.org/abs/1911.09233). Visak Kumar, Tucker Herman, Dieter Fox, Stan Birchfield, and Jonathan Tremblay. arXiv:1911.09233, submitted November 2019.
 * [Accelerating Reinforcement Learning with Suboptimal Guidance](https://arxiv.org/abs/1911.09391). Eivind Bøhn, Signe Moe, and Tor Arne Johansen. arXiv:1911.09391, submitted November 2019.
 * [Memory-Efficient Episodic Control Reinforcement Learning with Dynamic Online k-means](https://arxiv.org/abs/1911.09560). Andrea Agostinelli, Kai Arulkumaran, Marta Sarrico, Pierre Richemond, and Anil Anthony Bharath. arXiv:1911.09560, submitted November 2019.
