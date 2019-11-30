@@ -9,6 +9,27 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Combined Model for Partially-Observable and Non-Observable Task Switching:Solving Hierarchical Reinforcement Learning Problems](https://arxiv.org/abs/1911.10425). Nibraas Khan, and Joshua Phillips. arXiv:1911.10425, submitted November 2019.
+* [Which Channel to Ask My Question? Personalized Customer Service RequestStream Routing using DeepReinforcement Learning](https://arxiv.org/abs/1911.10521). Zining Liu, Chong Long, Xiaolu Lu, Zehong Hu, Jie Zhang, and Yafang Wang. arXiv:1911.10521, submitted November 2019.
+* [Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1911.10334). Xuan Liao, Wenhao Li, Qisen Xu, Xiangfeng Wang, Bo Jin, Xiaoyun Zhang, Ya Zhang, and Yanfeng Wang. arXiv:1911.10334, submitted November 2019.
+* [Mitigate Bias in Face Recognition using Skewness-Aware Reinforcement Learning](https://arxiv.org/abs/1911.10692). Mei Wang, and Weihong Deng. arXiv:1911.10692, submitted November 2019.
+* [DeepSynth: Program Synthesis for Automatic Task Segmentation in Deep Reinforcement Learning](https://arxiv.org/abs/1911.10244). Mohammadhosein Hasanbeig, Natasha Yogananda Jeppu, Alessandro Abate, Tom Melham, and Daniel Kroening. arXiv:1911.10244, submitted November 2019.
+* [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635). Kaiqing Zhang, Zhuoran Yang, and Tamer Başar. arXiv:1911.10635, submitted November 2019.
+* [ORL: Reinforcement Learning Benchmarks for Online Stochastic Optimization Problems](https://arxiv.org/abs/1911.10641). Bharathan Balaji, Jordan Bell-Masterson, Enes Bilgin, Andreas Damianou, Pablo Moreno Garcia, Arpit Jain, Runfei Luo, Alvaro Maggiar, Balakrishnan Narayanaswamy, and Chun Ye. arXiv:1911.10641, submitted November 2019.
+* [A Deep Reinforcement Learning Architecture for Multi-stage Optimal Control](https://arxiv.org/abs/1911.10684). Yuguang Yang
+. arXiv:1911.10684, submitted November 2019.
+* [End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868). Marin Toromanoff, Emilie Wirbel, Fabien Moutarde. arXiv:1911.10868, submitted November 2019.
+* [Natural Language Generation Using Reinforcement Learning with External Rewards](https://arxiv.org/abs/1911.11404). Vidhushini Srinivasan, Sashank Santhanam, and Samira Shaikh. arXiv:1911.11404, submitted November 2019. 
+* [Multi-Vehicle Mixed-Reality Reinforcement Learning for Autonomous Multi-Lane Driving](https://arxiv.org/abs/1911.11699). Rupert Mitchell, Jenny Fletcher, Jacopo Panerati, and Amanda Prorok. arXiv:1911.11699, submitted November 2019.
+* [Deep Reinforcement Learning for Multi-Driver Vehicle Dispatching and Repositioning Problem](https://arxiv.org/abs/1911.11260). John Holler, Risto Vuorio, Zhiwei Qin, Xiaocheng Tang, Yan Jiao, Tiancheng Jin, Satinder Singh, Chenxi Wang, and Jieping Ye. arXiv:1911.11260, submitted November 2019.
+* [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/abs/1911.11361). Yifan Wu, George Tucker, and Ofir Nachum. arXiv:1911.11361, submitted November 2019.
+* [Control-Tutored Reinforcement Learning: an application to the Herding Problem](https://arxiv.org/abs/1911.11444). Francesco De Lellis, Fabrizia Auletta, Giovanni Russo, and Mario di Bernardo. arXiv:1911.11444, submitted November 2019.
+* [From Persistent Homology to Reinforcement Learning with Applications for Retail Banking](https://arxiv.org/abs/1911.11573). Jeremy Charlier. arXiv:1911.11573, submitted November 2019.
+* [Join Query Optimization with Deep Reinforcement Learning Algorithms](https://arxiv.org/abs/1911.11689). Jonas Heitz, and Kurt Stockinger. arXiv:1911.11689, submitted November 2019.
+* [A selected review on reinforcement learning based control for autonomous underwater vehicles](https://arxiv.org/abs/1911.11991). Yachu Hsu, Hui Wu, Keyou You, and Shiji Song. arXiv:1911.11991, submitted November 2019. 
+* [Improving Fictitious Play Reinforcement Learning with Expanding Models](https://arxiv.org/abs/1911.11928). Rong-Jun Qin, Jing-Cheng Pang, and Yang Yu. arXiv:1911.11928, submitted November 2019.
+* [Deep Reinforcement Learning based Adaptive Moving Target Defense](https://arxiv.org/abs/1911.11972). Taha Eghtesad, Yevgeniy Vorobeychik, and Aron Laszka. arXiv:1911.11972, submitted November 2019.
+* [Towards Similarity Graphs Constructed by Deep Reinforcement Learning](https://arxiv.org/abs/1911.12122). Dmitry Baranchuk, and Artem Babenko. arXiv:1911.12122, submitted November 2019.
 * [Information-Theoretic Confidence Bounds for Reinforcement Learning](https://arxiv.org/abs/1911.09724). Xiuyuan Lu, and Benjamin Van Roy. arXiv:1911.09724, submitted November 2019.
 * [Efficient Exploration through Intrinsic Motivation Learning for Unsupervised Subgoal Discovery in Model-Free Hierarchical Reinforcement Learning](https://arxiv.org/abs/1911.10164). Jacob Rafati, and David C. Noelle. arXiv:1911.10164, submitted November 2019.
 * [Contextual Reinforcement Learning of Visuo-tactile Multi-fingered Grasping Policies](https://arxiv.org/abs/1911.09233). Visak Kumar, Tucker Herman, Dieter Fox, Stan Birchfield, and Jonathan Tremblay. arXiv:1911.09233, submitted November 2019.
