@@ -10,6 +10,15 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 ## Papers
 
 * [Combined Model for Partially-Observable and Non-Observable Task Switching:Solving Hierarchical Reinforcement Learning Problems](https://arxiv.org/abs/1911.10425). Nibraas Khan, and Joshua Phillips. arXiv:1911.10425, submitted November 2019.
+* [Induction of Subgoal Automata for Reinforcement Learning](https://arxiv.org/abs/1911.13152). Daniel Furelos-Blanco, Mark Law, Alessandra Russo, Krysia Broda, and Anders Jonsson. arXiv:1911.13152, submitted November 2019.
+* [Class Teaching for Inverse Reinforcement Learners](https://arxiv.org/abs/1911.13009). Manuel Lopes, and Francisco Melo.  arXiv:1911.13009, submitted November 2019.
+* [Simulation-based reinforcement learning for real-world autonomous driving](https://arxiv.org/abs/1911.12905). Błażej Osiński, Adam Jakubowski, Piotr Miłoś, Paweł Zięcina, Christopher Galias, and Henryk Michalewski. arXiv:1911.12905, submitted November 2019.
+* [Augmented Random Search for Quadcopter Control: An alternative to Reinforcement Learning](https://arxiv.org/abs/1911.12553). Ashutosh Kumar Tiwari, and Sandeep Varma Nadimpalli. arXiv:1911.12553, submitted November 2019.
+* [Distributed Soft Actor-Critic with Multivariate Reward Representation and Knowledge Distillation](https://arxiv.org/abs/1911.13056). Dmitry Akimov.  arXiv:1911.13056, submitted November 2019.
+* [Playing Games in the Dark: An approach for cross-modality transfer in reinforcement learning](https://arxiv.org/abs/1911.12851). Rui Silva, Miguel Vasco, Francisco S. Melo, Ana Paiva, and Manuela Veloso. arXiv:1911.12851, submitted November 2019.
+* [Option-critic in cooperative multi-agent systems](https://arxiv.org/abs/1911.12825). Jhelum Chakravorty, Nadeem Ward, Julien Roy, Maxime Chevalier-Boisvert, Sumana Basu, Andrei Lupu, and Doina Precup. arXiv:1911.12825, submitted November 2019.
+* [Algorithmic Improvements for Deep Reinforcement Learning applied to Interactive Fiction](https://arxiv.org/abs/1911.12511). Vishal Jain, William Fedus, Hugo Larochelle, Doina Precup, and Marc G. Bellemare. arXiv:1911.12511, submitted November 2019.
+* [Stigmergic Independent Reinforcement Learning for Multi-Agent Collaboration](https://arxiv.org/abs/1911.12504). Xu Xing, Li Rongpeng, Zhao Zhifeng, and Zhang Honggang. arXiv:1911.12504, submitted November 2019.
 * [Which Channel to Ask My Question? Personalized Customer Service RequestStream Routing using DeepReinforcement Learning](https://arxiv.org/abs/1911.10521). Zining Liu, Chong Long, Xiaolu Lu, Zehong Hu, Jie Zhang, and Yafang Wang. arXiv:1911.10521, submitted November 2019.
 * [Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1911.10334). Xuan Liao, Wenhao Li, Qisen Xu, Xiangfeng Wang, Bo Jin, Xiaoyun Zhang, Ya Zhang, and Yanfeng Wang. arXiv:1911.10334, submitted November 2019.
 * [Mitigate Bias in Face Recognition using Skewness-Aware Reinforcement Learning](https://arxiv.org/abs/1911.10692). Mei Wang, and Weihong Deng. arXiv:1911.10692, submitted November 2019.
