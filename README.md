@@ -9,6 +9,40 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Surface Following using Deep Reinforcement Learning and a GelSightTactile Sensor](https://arxiv.org/abs/1912.00745). Chen Lu, Jing Wang, and Shan Luo. 1912.00745, submitted December 2019.
+* [Automated curriculum generation for Policy Gradients from Demonstrations](https://arxiv.org/abs/1912.00444). Anirudh Srinivasan, Dzmitry Bahdanau, Maxime Chevalier-Boisvert, and Yoshua Bengio. arXiv:1912.00444, submitted December 2019.
+* [Optimization for Reinforcement Learning: From Single Agent to Cooperative Agents](https://arxiv.org/abs/1912.00498). Donghwan Lee, Niao He, Parameswaran Kamalaruban, and Volkan Cevher. arXiv:1912.00498, submitted December 2019.
+* [Multi-Agent Deep Reinforcement Learning with Adaptive Policies](https://arxiv.org/abs/1912.00949). Yixiang Wang, and Feng Wu. arXiv:1912.00949, submitted December 2019.
+* [Neighborhood Cognition Consistent Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1912.01160). Hangyu Mao, Wulong Liu, Jianye Hao, Jun Luo, Dong Li, Zhengchao Zhang, Jun Wang, and Zhen Xiao. arXiv:1912.01160, submitted December 2019.
+* [SafeLife 1.0: Exploring Side Effects in Complex Environments](https://arxiv.org/abs/1912.01217). Carroll L. Wainwright, and Peter Eckersley. arXiv:1912.01217, submitted December 2019.
+* [On-policy Reinforcement Learning with Entropy Regularization](https://arxiv.org/abs/1912.01557). Jingbin Liu, Xinyang Gu, Dexiang Zhang, and Shuai Liu. arXiv:1912.01557, submitted December 2019.
+* [AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/abs/1912.02074). Ofir Nachum, Bo Dai, Ilya Kostrikov, Yinlam Chow, Lihong Li, and Dale Schuurmans.  arXiv:1912.02074, submitted December 2019.
+* [Simplified Action Decoder for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1912.02288). Hengyuan Hu, and Jakob N Foerster. arXiv:1912.02288, submitted December 2019.
+* [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318). Adam Lerer, Hengyuan Hu, Jakob Foerster, and Noam Brown. arXiv:1912.02318, submitted December 2019.
+* [Inter-Level Cooperation in Hierarchical Reinforcement Learning](https://arxiv.org/abs/1912.02368). Abdul Rahman Kreidieh, Samyak Parajuli, Nathan Lichtle, Yiling You, Rayyan Nasr, and Alexandre M. Bayen. arXiv:1912.02368, submitted December 2019.
+* [Reinforcement Learning with Non-Markovian Rewards](https://arxiv.org/abs/1912.02552). Maor Gaon, and Ronen I. Brafman. arXiv:1912.02552, submitted December 2019.
+* [Cooperative Reasoning on Knowledge Graph and Corpus: A Multi-agentReinforcement Learning Approach](https://arxiv.org/abs/1912.02206). Yunan Zhang, Xiang Cheng, Heting Gao, and Chengxiang Zhai. arXiv:1912.02206, submitted December 2019.
+* [Iterative Policy-Space Expansion in Reinforcement Learning](https://arxiv.org/abs/1912.02532). Jan Malte Lichtenberg, and Özgür Şimşek. arXiv:1912.02532, submitted December 2019.
+* [Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions](https://arxiv.org/abs/1912.02875). Juergen Schmidhuber. arXiv:1912.02875, submitted December 2019.
+* [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/abs/1912.02877). Rupesh Kumar Srivastava, Pranav Shyam, Filipe Mutz, Wojciech Jaśkowski, and Jürgen Schmidhuber. arXiv:1912.02877, submitted December 2019.
+* [Scalable Reinforcement Learning of Localized Policies for Multi-Agent Networked Systems](https://arxiv.org/abs/1912.02906). Guannan Qu, Adam Wierman, and Na Li. arXiv:1912.02906, submitted December 2019.
+* [Observational Overfitting in Reinforcement Learning](https://arxiv.org/abs/1912.02975). Xingyou Song, Yiding Jiang, Yilun Du, and Behnam Neyshabur. arXiv:1912.02975, submitted December 2019.
+* [A pedestrian path-planning model in accordance with obstacle's danger with reinforcement learning](https://arxiv.org/abs/1912.02945). Thanh-Trung Trinh, Dinh-Minh Vu, and Masaomi Kimura. arXiv:1912.02945, submitted December 2019.
+* [From Reinforcement Learning to Optimal Control: A unified framework for sequential decisions](https://arxiv.org/abs/1912.03513). Warren B Powell. arXiv:1912.03513, submitted December 2019.
+* [Intelligent Coordination among Multiple Traffic Intersections Using Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1912.03851). Ujwal Padam Tewari, Vishal Bidawatka, Varsha Raveendran, and Vinay Sudhakaran. arXiv:1912.03851, submitted December 2019.
+* [Transformer Based Reinforcement Learning For Games](https://arxiv.org/abs/1912.03918). Uddeshya Upadhyay, Nikunj Shah, Sucheta Ravikanti, and Mayanka Medhe. arXiv:1912.03918, submitted December 2019.
+* [Reinforcement Learning with Convolutional Reservoir Computing](https://arxiv.org/abs/1912.04161). Hanten Chang, and Katsuya Futagami. arXiv:1912.04161, submitted December 2019.
+* [Unsupervised Curricula for Visual Meta-Reinforcement Learning](https://arxiv.org/abs/1912.04226). Allan Jabri, Kyle Hsu, Ben Eysenbach, Abhishek Gupta, Sergey Levine, and Chelsea Finn. arXiv:1912.04226, submitted December 2019.
+* [Efficient Object Detection in Large Images using Deep Reinforcement Learning](https://arxiv.org/abs/1912.03966). Burak Uzkent, Christopher Yeh, and Stefano Ermon. arXiv:1912.03966, submitted December 2019.
+* [Deep Reinforcement Learning for Routing a Heterogeneous Fleet of Vehicles](https://arxiv.org/abs/1912.03341). Jose Manuel Vera, and Andres G. Abad. arXiv:1912.03341, submitted December 2019.
+* [Effects of a Social Force Model reward in Robot Navigation based on Deep Reinforcement Learning](https://arxiv.org/abs/1912.03747). Óscar Gil Viyuela, and Alberto Sanfeliu. arXiv:1912.03747, submitted December 2019.
+* [Reinforcement Learning based Visual Navigation with Information-Theoretic Regularization](https://arxiv.org/abs/1912.04078). Qiaoyun Wu, Kai Xu, Jun Wang, Mingliang Xu, and Dinesh Manocha. arXiv:1912.04078, submitted December 2019.
+* [Decentralized Multi-Agent Reinforcement Learning with Networked Agents: Recent Advances](https://arxiv.org/abs/1912.03821). Kaiqing Zhang, Zhuoran Yang, and Tamer Başar. arXiv:1912.03821, submitted December 2019.
+* [ChainerRL: A Deep Reinforcement Learning Library](https://arxiv.org/abs/1912.03905). Yasuhiro Fujita, Toshiki Kataoka, Prabhat Nagarajan, and Takahiro Ishikawa. arXiv:1912.03905, submitted December 2019.
+* [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/abs/1809.05188). Jiachen Yang, Alireza Nakhaei, David Isele, Kikuo Fujimura, and Hongyuan Zha. arXiv:1809.05188, submitted Septembre 2018.
+* [Integrating independent and centralized multi-agent reinforcement learning for traffic signal network optimization](https://arxiv.org/abs/1909.10651). Zhi Zhang, Jiachen Yang, and Hongyuan Zha. arXiv:1909.10651, submitted September 2019.
+* [Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery](https://arxiv.org/abs/1912.03558). Jiachen Yang, Igor Borovikov, and Hongyuan Zha. arXiv:1912.03558, submitted December 2019.
+* [ColosseumRL: A Framework for Multiagent Reinforcement Learning in N-Player Games](https://arxiv.org/abs/1912.04451). Alexander Shmakov, John Lanier, Stephen McAleer, Rohan Achar, Cristina Lopes, and Pierre Baldi. arXiv:1912.04451, submitted December 2019.
 * [Combined Model for Partially-Observable and Non-Observable Task Switching:Solving Hierarchical Reinforcement Learning Problems](https://arxiv.org/abs/1911.10425). Nibraas Khan, and Joshua Phillips. arXiv:1911.10425, submitted November 2019.
 * [Induction of Subgoal Automata for Reinforcement Learning](https://arxiv.org/abs/1911.13152). Daniel Furelos-Blanco, Mark Law, Alessandra Russo, Krysia Broda, and Anders Jonsson. arXiv:1911.13152, submitted November 2019.
 * [Class Teaching for Inverse Reinforcement Learners](https://arxiv.org/abs/1911.13009). Manuel Lopes, and Francisco Melo.  arXiv:1911.13009, submitted November 2019.
