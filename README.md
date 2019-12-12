@@ -9,6 +9,14 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Quality of syntactic implication of RL-based sentence summarization](https://arxiv.org/abs/1912.05493). Hoa T. Le, Christophe Cerisara, and Claire Gardent. https://arxiv.org/abs/1912.05493, submitted December 2019.
+* [Energy-aware Scheduling of Jobs in Heterogeneous Cluster Systems Using Deep Reinforcement Learning](https://arxiv.org/abs/1912.05160). Amirhossein Esmaili, and Massoud Pedram. arXiv:1912.05160, submitted December 2019.
+* [Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning](https://arxiv.org/abs/1912.05205). Tianying Wang, Hao Zhang, Wei Qi Toh, Hongyuan Zhu, Cheston Tan, Yan Wu, Yong Liu, and Wei Jing. arXiv:1912.05205, submitted December 2019.
+* [Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods](https://arxiv.org/abs/1912.05104). Riashat Islam, Raihan Seraj, Pierre-Luc Bacon, and Doina Precup. arXiv:1912.05104, submitted December 2019.
+* [Flow Rate Control in Smart District Heating Systems Using Deep Reinforcement Learning](https://arxiv.org/abs/1912.05313). Tinghao Zhang, Jing Luo, Ping Chen, and Jie Liu. arXiv:1912.05313, submitted December 2019.
+* [Efficient and Robust Reinforcement Learning with Uncertainty-based Value Expansion](https://arxiv.org/abs/1912.05328). Bo Zhou, Hongsheng Zeng, Fan Wang, Yunxiang Li, and Hao Tian. arXiv:1912.05328, submitted December 2019.
+* [Value-of-Information based Arbitration between Model-based and Model-free Control](https://arxiv.org/abs/1912.05453). Krishn Bera, Yash Mandilwar, and Bapi Raju. arXiv:1912.05453, submitted December 2019.
+* [SMiRL: Surprise Minimizing RL in Dynamic Environments](https://arxiv.org/abs/1912.05510). Glen Berseth, Daniel Geng, Coline Devin, Chelsea Finn, Dinesh Jayaraman, and Sergey Levine. arXiv:1912.05510, submitted December 2019.
 * [Surface Following using Deep Reinforcement Learning and a GelSightTactile Sensor](https://arxiv.org/abs/1912.00745). Chen Lu, Jing Wang, and Shan Luo. 1912.00745, submitted December 2019.
 * [Automated curriculum generation for Policy Gradients from Demonstrations](https://arxiv.org/abs/1912.00444). Anirudh Srinivasan, Dzmitry Bahdanau, Maxime Chevalier-Boisvert, and Yoshua Bengio. arXiv:1912.00444, submitted December 2019.
 * [Optimization for Reinforcement Learning: From Single Agent to Cooperative Agents](https://arxiv.org/abs/1912.00498). Donghwan Lee, Niao He, Parameswaran Kamalaruban, and Volkan Cevher. arXiv:1912.00498, submitted December 2019.
