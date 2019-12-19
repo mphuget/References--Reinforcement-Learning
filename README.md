@@ -1,13 +1,46 @@
 # State of the art on Reinforcement-Learning
 
 This repository corresponds to the state of the art, I do on Reinforcement Learning
-
 ## Books
 
 * Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto. MIT Press, [1st edition 1998](http://incompleteideas.net/sutton/book/the-book-1st.html) [2nd edition 2017 in progress](http://incompleteideas.net/sutton/book/the-book-2nd.html)
 * [Algorithms for Reinforcement Learning](http://www.ualberta.ca/%7Eszepesva/papers/RLAlgsInMDPs.pdf), Csaba Szepesvari, 2009
 
 ## Papers
+
+* [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL](https://arxiv.org/abs/1912.05743). Akanksha Atrey, Kaleigh Clary, and David Jensen. arXiv:1912.05743, submitted December 2019.
+* [Text as Environment: A Deep Reinforcement Learning Text Readability Assessment Model](https://arxiv.org/abs/1912.05957). Hamid Mohammadi, and Seyed Hossein Khasteh. arXiv:1912.05957, submitted December 2019.
+* [Online Deep Reinforcement Learning for Autonomous UAV Navigation and Exploration of Outdoor Environments](https://arxiv.org/abs/1912.05684). Bruna G. Maciel-Pearson, Letizia Marchegiani, Samet Akcay, Amir Atapour-Abarghouei, James Garforth, and Toby P. Breckon. arXiv:1912.05684, submitted December 2019. 
+* [Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://arxiv.org/abs/1912.05676). Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou, and Thore Graepel. arXiv:1912.05676, submitted December 2019.
+* [Measuring the Reliability of Reinforcement Learning Algorithms](https://arxiv.org/abs/1912.05663). Stephanie C.Y. Chan, Sam Fishman, John Canny, Anoop Korattikara, and Sergio Guadarrama. arXiv:1912.05663, submitted December 2019.
+* [Learning To Reach Goals Without Reinforcement Learning](https://arxiv.org/abs/1912.06088). Dibya Ghosh, Abhishek Gupta, Justin Fu, Ashwin Reddy, Coline Devine, Benjamin Eysenbach, and Sergey Levine. arXiv:1912.06088, submitted December 2019.
+* [The PlayStation Reinforcement Learning Environment (PSXLE)](https://arxiv.org/abs/1912.06101). Carlos Purves, Cătălina Cangea, and Petar Veličković. arXiv:1912.06101, submitted December 2019.
+* [Control-Tutored Reinforcement Learning](https://arxiv.org/abs/1912.06085). Francesco De Lellis, Fabrizia Auletta, Giovanni Russo, Piero De Lellis, and Mario di Bernardo. arXiv:1912.06085, submitted December 2019.
+* [Recruitment-imitation Mechanism for Evolutionary Reinforcement Learning](https://arxiv.org/abs/1912.06310). Shuai Lü, Shuai Han, Wenbo Zhou, and Junwei Zhang. arXiv:1912.06310, submitted December 2019.
+* [Spatial Influence-aware Reinforcement Learning for Intelligent Transportation System](https://arxiv.org/abs/1912.06880). Wenhang Bao, and Xiao-yang Liu. arXiv:1912.06880, submitted December 2019.
+* [Long-Term Planning and Situational Awareness in OpenAI Five](https://arxiv.org/abs/1912.06721). Jonathan Raiman, Susan Zhang, and Filip Wolski. arXiv:1912.06721, submitted December 2019.
+* [PixelRL: Fully Convolutional Network with Reinforcement Learning for Image Processing](https://arxiv.org/abs/1912.07190). Ryosuke Furuta, Naoto Inoue, and Toshihiko Yamasaki. arXiv:1912.07190, submitted December 2019.
+* [Coordination in Adversarial Sequential Team Games via Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1912.07712). Andrea Celli, Marco Ciccone, Raffaele Bongo, and Nicola Gatti. arXiv:1912.07712, submitted December 2019.
+* [UNAS: Differentiable Architecture Search Meets Reinforcement Learning](https://arxiv.org/abs/1912.07651). Arash Vahdat, Arun Mallya, Ming-Yu Liu, and Jan Kautz. arXiv:1912.07651, submitted December 2019.
+* [Taming an autonomous surface vehicle for path following and collision avoidance using deep reinforcement learning](https://arxiv.org/abs/1912.08578). Eivind Meyer, Haakon Robinson, Adil Rasheed, and Omer San. arXiv:1912.08578, submitted December 2019.
+* [Hierarchical Deep Q-Network with Forgetting from Imperfect Demonstrations in Minecraft](https://arxiv.org/abs/1912.08664). Alexey Skrynnik, Aleksey Staroverov, Ermek Aitygulov, Kirill Aksenov, Vasilii Davydov, and Aleksandr I. Panov. arXiv:1912.08664, submitted December 2019.
+* [Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation](https://arxiv.org/abs/1912.08324). Tianhong Dai, Kai Arulkumaran, Samyakh Tukra, Feryal Behbahani, and Anil Anthony Bharath. arXiv:1912.08324, submitted December 2019.
+* [Learning to grow: control of materials self-assembly using evolutionary reinforcement learning](https://arxiv.org/abs/1912.08333). Stephen Whitelam, and Isaac Tamblyn. arXiv:1912.08333, submitted December 2019.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * [Quality of syntactic implication of RL-based sentence summarization](https://arxiv.org/abs/1912.05493). Hoa T. Le, Christophe Cerisara, and Claire Gardent. https://arxiv.org/abs/1912.05493, submitted December 2019.
 * [Energy-aware Scheduling of Jobs in Heterogeneous Cluster Systems Using Deep Reinforcement Learning](https://arxiv.org/abs/1912.05160). Amirhossein Esmaili, and Massoud Pedram. arXiv:1912.05160, submitted December 2019.
