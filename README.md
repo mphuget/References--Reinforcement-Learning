@@ -8,7 +8,11 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
-* [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL](https://arxiv.org/abs/1912.05743). Akanksha Atrey, Kaleigh Clary, and David Jensen. arXiv:1912.05743, submitted December 2019.
+* [Extendable NFV-Integrated Control Method Using Reinforcement Learning](https://arxiv.org/abs/1912.09022). Akito Suzuki, Ryoichi Kawahara, Masahiro Kobayashi, Shigeaki Harada, Yousuke Takahashi, and Keisuke Ishibashi. arXiv:1912.09022, submitted December 2019.
+* [Deep Reinforcement Learning for Motion Planning of Mobile Robots](https://arxiv.org/abs/1912.09260). Leonid Butyrev, Thorsten Edelhäußer, Christopher and Mutschler. arXiv:1912.09260, submitted December 2019.
+* [Interestingness Elements for Explainable Reinforcement Learning: Understanding Agents' Capabilities and Limitations](https://arxiv.org/abs/1912.09007). Pedro Sequeira, and Melinda Gervasio. arXiv:1912.09007, submitted December 2019.
+* [Deep Reinforcement Learning Designed RF Pulse: DeepRFSLR](https://arxiv.org/abs/1912.09015). Dongmyung Shin, Sooyeon Ji, Doohee Lee, Jieun Lee, Se-Hong Oh, and Jongho Lee. arXiv:1912.09015, submitted December 2019.
+*[Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL](https://arxiv.org/abs/1912.05743). Akanksha Atrey, Kaleigh Clary, and David Jensen. arXiv:1912.05743, submitted December 2019.
 * [Text as Environment: A Deep Reinforcement Learning Text Readability Assessment Model](https://arxiv.org/abs/1912.05957). Hamid Mohammadi, and Seyed Hossein Khasteh. arXiv:1912.05957, submitted December 2019.
 * [Online Deep Reinforcement Learning for Autonomous UAV Navigation and Exploration of Outdoor Environments](https://arxiv.org/abs/1912.05684). Bruna G. Maciel-Pearson, Letizia Marchegiani, Samet Akcay, Amir Atapour-Abarghouei, James Garforth, and Toby P. Breckon. arXiv:1912.05684, submitted December 2019. 
 * [Biases for Emergent Communication in Multi-agent Reinforcement Learning](https://arxiv.org/abs/1912.05676). Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou, and Thore Graepel. arXiv:1912.05676, submitted December 2019.
