@@ -8,6 +8,20 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Crowdfunding Dynamics Tracking: A Reinforcement Learning Approach](https://arxiv.org/abs/1912.12016). Jun Wang, Hefu Zhang, Qi Liu, Zhen Pan, and Hanqing Tao. arXiv:1912.12016, submitted December 2019.
+* [Quasi-Newton Trust Region Policy Optimization](https://arxiv.org/abs/1912.11912). Devesh Jha, Arvind Raghunathan, and Diego Romeres. arXiv:1912.11912, submitted December 2019.
+* [Pseudo Random Number Generation: a Reinforcement Learning approach](https://arxiv.org/abs/1912.11531). Luca Pasqualini, and Maurizio Parton. arXiv:1912.11531, submitted December 2019.
+* [Defining AI in Policy versus Practice](https://arxiv.org/abs/1912.11095). P. M. Krafft, Meg Young, Michael Katell, Karen Huang, and Ghislain Bugingo.  arXiv:1912.11095, submitted December 2019.
+* [Discrete and Continuous Action Representation for Practical RL in Video Games](https://arxiv.org/abs/1912.11077). Olivier Delalleau, Maxim Peter, Eloi Alonso, and Adrien Logut. arXiv:1912.11077, submitted December 2019.
+* [Monte-Carlo Tree Search for Policy Optimization](https://arxiv.org/abs/1912.10648). Xiaobai Ma, Katherine Driggs-Campbell, Zongzhang Zhang, Mykel and J. Kochenderfer. arXiv:1912.10648, submitted December 2019.
+* [Direct and indirect reinforcement learning](https://arxiv.org/abs/1912.10600). Yang Guan, Shengbo Eben Li, Jingliang Duan, Jie Li, Yangang Ren, and Bo Cheng. arXiv:1912.10600, submitted December 2019.
+* [Parameterized Indexed Value Function for Efficient Exploration in Reinforcement Learning](https://arxiv.org/abs/1912.10577). Tian Tan, Zhihan Xiong, and Vikranth R. Dwaracherla. arXiv:1912.10577, submitted December 2019.
+* [Optimizing Collision Avoidance in Dense Airspace using Deep Reinforcement Learning](https://arxiv.org/abs/1912.10146). Sheng Li, Maxim Egorov, and Mykel Kochenderfer. arXiv:1912.1014, submitted December 2019.
+* [Teaching robots to perceive time -- A reinforcement learning approach (Extended version)](https://arxiv.org/abs/1912.10113). Inês Lourenço, Bo Wahlberg, and Rodrigo Ventura. arXiv:1912.10113, submitted December 2019.
+* [Towards Practical Multi-Object Manipulation using Relational Reinforcement Learning](https://arxiv.org/abs/1912.11032). Richard Li, Allan Jabri, Trevor Darrell, and Pulkit Agrawal. arXiv:1912.11032, submitted December 2019.
+* [A Survey of Deep Reinforcement Learning in Video Games](https://arxiv.org/abs/1912.10944). Kun Shao, Zhentao Tang, Yuanheng Zhu, Nannan Li, and Dongbin Zhao. arXiv:1912.10944, submitted December 2019.
+* [Does AlphaGo actually play Go? Concerning the State Space of Artificial Intelligence](https://arxiv.org/abs/1912.10005). Holger Lyre. arXiv:1912.10005, submitted December 2019.
+* [Mastering Complex Control in MOBA Games with Deep Reinforcement Learning](https://arxiv.org/abs/1912.09729). Deheng Ye, Zhao Liu, Mingfei Sun, Bei Shi, Peilin Zhao, Hao Wu, Hongsheng Yu, Shaojie Yang, Xipeng Wu, Qingwei Guo, Qiaobo Chen, Yinyuting Yin, Hao Zhang, Tengfei Shi, Liang Wang, Qiang Fu, Wei Yang, and Lanxiao Huang. arXiv:1912.09729, submitted December 2019.
 * [Extendable NFV-Integrated Control Method Using Reinforcement Learning](https://arxiv.org/abs/1912.09022). Akito Suzuki, Ryoichi Kawahara, Masahiro Kobayashi, Shigeaki Harada, Yousuke Takahashi, and Keisuke Ishibashi. arXiv:1912.09022, submitted December 2019.
 * [Deep Reinforcement Learning for Motion Planning of Mobile Robots](https://arxiv.org/abs/1912.09260). Leonid Butyrev, Thorsten Edelhäußer, Christopher and Mutschler. arXiv:1912.09260, submitted December 2019.
 * [Interestingness Elements for Explainable Reinforcement Learning: Understanding Agents' Capabilities and Limitations](https://arxiv.org/abs/1912.09007). Pedro Sequeira, and Melinda Gervasio. arXiv:1912.09007, submitted December 2019.
