@@ -8,6 +8,15 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Predictive Coding for Boosting Deep Reinforcement Learning with Sparse Rewards](https://arxiv.org/abs/1912.13414). Xingyu Lu, Stas Tiomkin, and Pieter Abbeel. arXiv:1912.13414, submitted December 2019.
+* [A New Framework for Query Efficient Active Imitation Learning](https://arxiv.org/abs/1912.13037). Daniel Hsu. arXiv:1912.13037, submitted December 2019.
+* [Augmented Replay Memory in Reinforcement Learning With Continuous Control](https://arxiv.org/abs/1912.12719). Mirza Ramicic, and Andrea Bonarini. arXiv:1912.12719, submitted December 2019.
+* [Real-time Policy Distillation in Deep Reinforcement Learning](https://arxiv.org/abs/1912.12630). Yuxiang Sun, and Pooyan Fazli. arXiv:1912.12630, submitted December 2019.
+* [Speeding up reinforcement learning by combining attention and agency features](https://arxiv.org/abs/1912.12623). Berkay Demirel, and Martí Sánchez-Fibla. arXiv:1912.12623, submitted December 2019.
+* [SLM Lab: A Comprehensive Benchmark and Modular Software Framework for Reproducible Deep Reinforcement Learning](https://arxiv.org/abs/1912.12482). Keng Wah Loon, Laura Graesser, and Milan Cvitkovic. arXiv:1912.12482, submitted December 2019.
+* [Weak Supervision for Fake News Detection via Reinforcement Learning](https://arxiv.org/abs/1912.12520). Yaqing Wang, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, and Jing Gao. arXiv:1912.12520, submitted December 2019.
+* [Individual specialization in multi-task environments with multiagent reinforcement learners](https://arxiv.org/abs/1912.12671). Marco Jerome Gasparrini, Ricard Solé, and Martí Sánchez-Fibla. arXiv:1912.12671, submitted December 2019.
+* [Loss aversion fosters coordination among independent reinforcement learners](https://arxiv.org/abs/1912.12633). Marco Jerome Gasparrini, and Martí Sánchez-Fibla. arXiv:1912.12633, submitted December 2019.
 * [Crowdfunding Dynamics Tracking: A Reinforcement Learning Approach](https://arxiv.org/abs/1912.12016). Jun Wang, Hefu Zhang, Qi Liu, Zhen Pan, and Hanqing Tao. arXiv:1912.12016, submitted December 2019.
 * [Quasi-Newton Trust Region Policy Optimization](https://arxiv.org/abs/1912.11912). Devesh Jha, Arvind Raghunathan, and Diego Romeres. arXiv:1912.11912, submitted December 2019.
 * [Pseudo Random Number Generation: a Reinforcement Learning approach](https://arxiv.org/abs/1912.11531). Luca Pasqualini, and Maurizio Parton. arXiv:1912.11531, submitted December 2019.
