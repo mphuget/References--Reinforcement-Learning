@@ -8,6 +8,15 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Intelligent Roundabout Insertion using Deep Reinforcement Learning](https://arxiv.org/abs/2001.00786). Alessandro Paolo Capasso, Giulio Bacchiani, and Daniele Molinari. arXiv:2001.00786, submitted January 2020.
+* [Making Sense of Reinforcement Learning and Probabilistic Inference](https://arxiv.org/abs/2001.00805). Brendan O'Donoghue, Ian Osband, and Catalin Ionescu. arXiv:2001.00805, submitted January 2020.
+* [Fairness in Multi-agent Reinforcement Learning for Stock Trading](https://arxiv.org/abs/2001.00918). Wenhang Bao. arXiv:2001.00918, submitted January 2020.
+* [Zero-Shot Reinforcement Learning with Deep Attention Convolutional Neural Networks](https://arxiv.org/abs/2001.00605). Sahika Genc, Sunil Mallya, Sravan Bodapati, Tao Sun, and Yunzhe Tao. arXiv:2001.00605, submitted January 2020.
+* [Continuous-Discrete Reinforcement Learning for Hybrid Control in Robotics](https://arxiv.org/abs/2001.00449). Michael Neunert, Abbas Abdolmaleki, Markus Wulfmeier, Thomas Lampe, Jost Tobias Springenberg, Roland Hafner, Francesco Romano, Jonas Buchli, Nicolas Heess, and Martin Riedmiller. arXiv:2001.00449, submitted January 2020.
+* [Uncertainty-Based Out-of-Distribution Classification in Deep Reinforcement Learning](https://arxiv.org/abs/2001.00496). Andreas Sedlmeier, Thomas Gabor, Thomy Phan, Lenz Belzner, and Claudia Linnhoff-Popien. arXiv:2001.00496, submitted January 2020.
+* [Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies](https://arxiv.org/abs/2001.00248). Sungryull Sohn, Hyunjae Woo, Jongwook Choi, and Honglak Lee.  arXiv:2001.00248, submitted January 2020.
+* [Deep Reinforced Self-Attention Masks for Abstractive Summarization (DR.SAS)](https://arxiv.org/abs/2001.00009). Ankit Chadha, and Mohamed Masoud. arXiv:2001.00009, submitted January 2020.
+* [Reinforcement Learning with Goal-Distance Gradient](https://arxiv.org/abs/2001.00127). Kai Jiang, and XiaoLong Qin. arXiv:2001.00127, submitted January 2020.
 * [Predictive Coding for Boosting Deep Reinforcement Learning with Sparse Rewards](https://arxiv.org/abs/1912.13414). Xingyu Lu, Stas Tiomkin, and Pieter Abbeel. arXiv:1912.13414, submitted December 2019.
 * [A New Framework for Query Efficient Active Imitation Learning](https://arxiv.org/abs/1912.13037). Daniel Hsu. arXiv:1912.13037, submitted December 2019.
 * [Augmented Replay Memory in Reinforcement Learning With Continuous Control](https://arxiv.org/abs/1912.12719). Mirza Ramicic, and Andrea Bonarini. arXiv:1912.12719, submitted December 2019.
