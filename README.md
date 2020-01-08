@@ -8,6 +8,13 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Information Theoretic Model Predictive Q-Learning](https://arxiv.org/abs/2001.02153). Mohak Bhardwaj, Ankur Handa, Dieter Fox, and Byron Boots. arXiv:2001.02153, submitted January 2020.
+* [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024). Erik Gärtner, Aleksis Pirinen, and Cristian Sminchisescu. arXiv:2001.02024, submitted January 2020.
+* [Hierarchical Reinforcement Learning as a Model of Human Task Interleaving](https://arxiv.org/abs/2001.02122). Christoph Gebhardt, Antti Oulasvirta, and Otmar Hilliges. arXiv:2001.02122, submitted January 2020.
+* [Optimal Options for Multi-Task Reinforcement Learning Under Time Constraints](https://arxiv.org/abs/2001.01620). Manuel Del Verme, Bruno Castro da Silva, and Gianluca Baldassarre. arXiv:2001.01620, submitted January 2020.
+* [High-speed Autonomous Drifting with Deep Reinforcement Learning](https://arxiv.org/abs/2001.01377). Peide Cai, Xiaodong Mei, Lei Tai, Yuxiang Sun, and Ming Liu. arXiv:2001.01377, submitted January 2020.
+* [Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning](https://arxiv.org/abs/2001.01096). Weiya Ren. arXiv:2001.01096, submitted January 2020.
+* [Learning Reusable Options for Multi-Task Reinforcement Learning](https://arxiv.org/abs/2001.01577). Francisco M. Garcia, Chris Nota, and Philip S. Thomas. arXiv:2001.01577, submitted January 2020.
 * [Intelligent Roundabout Insertion using Deep Reinforcement Learning](https://arxiv.org/abs/2001.00786). Alessandro Paolo Capasso, Giulio Bacchiani, and Daniele Molinari. arXiv:2001.00786, submitted January 2020.
 * [Making Sense of Reinforcement Learning and Probabilistic Inference](https://arxiv.org/abs/2001.00805). Brendan O'Donoghue, Ian Osband, and Catalin Ionescu. arXiv:2001.00805, submitted January 2020.
 * [Fairness in Multi-agent Reinforcement Learning for Stock Trading](https://arxiv.org/abs/2001.00918). Wenhang Bao. arXiv:2001.00918, submitted January 2020.
