@@ -8,6 +8,7 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Population-Guided Parallel Policy Search for Reinforcement Learning](https://arxiv.org/abs/2001.02907). Whiyoung Jung, Giseung Park, and Youngchul Sung. arXiv:2001.02907, submitted January 2020.
 * [Deep Interactive Reinforcement Learning for Path Following of Autonomous Underwater Vehicle](https://arxiv.org/abs/2001.03359). Qilei Zhang, Jinying Lin, Qixin Sha, Bo He, and Guangliang Li. arXiv:2001.03359, submitted January 2020. 
 * [Information Theoretic Model Predictive Q-Learning](https://arxiv.org/abs/2001.02153). Mohak Bhardwaj, Ankur Handa, Dieter Fox, and Byron Boots. arXiv:2001.02153, submitted January 2020.
 * [Deep Reinforcement Learning for Active Human Pose Estimation](https://arxiv.org/abs/2001.02024). Erik Gärtner, Aleksis Pirinen, and Cristian Sminchisescu. arXiv:2001.02024, submitted January 2020.
