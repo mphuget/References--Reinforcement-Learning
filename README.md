@@ -8,6 +8,10 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Reward Engineering for Object Pick and Place Training](https://arxiv.org/abs/2001.03792). Raghav Nagpal, Achyuthan Unni Krishnan, and Hanshen Yu. arXiv:2001.03792, submitted January 2020.
+* [Sparse Black-box Video Attack with Reinforcement Learning](https://arxiv.org/abs/2001.03754). Huanqian Yan, Xingxing Wei, and Bo Li. arXiv:2001.03754, submitted January 2020.
+* [Learning to drive via Apprenticeship Learning and Deep Reinforcement Learning](https://arxiv.org/abs/2001.03864). Wenhui Huang, Francesco Braghin, and Zhuo Wang. arXiv:2001.03864, submitted January 2020.
+* [Addressing Value Estimation Errors in Reinforcement Learning with a State-Action Return Distribution Function](https://arxiv.org/abs/2001.02811). Jingliang Duan, Yang Guan, Yangang Ren, Shengbo Eben Li, and Bo Cheng. arXiv:2001.02811, submitted January 2020. 
 * [Population-Guided Parallel Policy Search for Reinforcement Learning](https://arxiv.org/abs/2001.02907). Whiyoung Jung, Giseung Park, and Youngchul Sung. arXiv:2001.02907, submitted January 2020.
 * [Deep Interactive Reinforcement Learning for Path Following of Autonomous Underwater Vehicle](https://arxiv.org/abs/2001.03359). Qilei Zhang, Jinying Lin, Qixin Sha, Bo He, and Guangliang Li. arXiv:2001.03359, submitted January 2020. 
 * [Information Theoretic Model Predictive Q-Learning](https://arxiv.org/abs/2001.02153). Mohak Bhardwaj, Ankur Handa, Dieter Fox, and Byron Boots. arXiv:2001.02153, submitted January 2020.
@@ -71,22 +75,6 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 * [Hierarchical Deep Q-Network with Forgetting from Imperfect Demonstrations in Minecraft](https://arxiv.org/abs/1912.08664). Alexey Skrynnik, Aleksey Staroverov, Ermek Aitygulov, Kirill Aksenov, Vasilii Davydov, and Aleksandr I. Panov. arXiv:1912.08664, submitted December 2019.
 * [Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation](https://arxiv.org/abs/1912.08324). Tianhong Dai, Kai Arulkumaran, Samyakh Tukra, Feryal Behbahani, and Anil Anthony Bharath. arXiv:1912.08324, submitted December 2019.
 * [Learning to grow: control of materials self-assembly using evolutionary reinforcement learning](https://arxiv.org/abs/1912.08333). Stephen Whitelam, and Isaac Tamblyn. arXiv:1912.08333, submitted December 2019.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * [Quality of syntactic implication of RL-based sentence summarization](https://arxiv.org/abs/1912.05493). Hoa T. Le, Christophe Cerisara, and Claire Gardent. https://arxiv.org/abs/1912.05493, submitted December 2019.
 * [Energy-aware Scheduling of Jobs in Heterogeneous Cluster Systems Using Deep Reinforcement Learning](https://arxiv.org/abs/1912.05160). Amirhossein Esmaili, and Massoud Pedram. arXiv:1912.05160, submitted December 2019.
 * [Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning](https://arxiv.org/abs/1912.05205). Tianying Wang, Hao Zhang, Wei Qi Toh, Hongyuan Zhu, Cheston Tan, Yan Wu, Yong Liu, and Wei Jing. arXiv:1912.05205, submitted December 2019.
