@@ -8,6 +8,13 @@ This repository corresponds to the state of the art, I do on Reinforcement Learn
 
 ## Papers
 
+* [Multi-Robot Formation Control Using Reinforcement Learning](https://arxiv.org/abs/2001.04527). Abhay Rawat, and Kamalakar Karlapalem. arXiv:2001.04527, submitted January 2020.
+* [Reinforcement Learning of Control Policy for Linear Temporal Logic Specifications Using Limit-Deterministic Büchi Automata](https://arxiv.org/abs/2001.04669). Ryohei Oura, Ami Sakakibara, and Toshimitsu Ushio. arXiv:2001.04669, submitted January 2020.
+* [Inducing Cooperation in Multi-Agent Games Through Status-Quo Loss](https://arxiv.org/abs/2001.05458). Pinkesh Badjatiya, Mausoom Sarkar, Abhishek Sinha, Siddharth Singh, Nikaash Puri, and Balaji Krishnamurthy. arXiv:2001.05458, submitted January 2020. 
+* [PoPS: Policy Pruning and Shrinking for Deep Reinforcement Learning](https://arxiv.org/abs/2001.05012). Dor Livne, and Kobi Cohen. arXiv:2001.05012, submitted January 2020.
+* [Continuous-action Reinforcement Learning for Playing Racing Games: Comparing SPG to PPO](https://arxiv.org/abs/2001.05270). Mario S. Holubar, and Marco A. Wiering. arXiv:2001.05270, submitted January 2020.
+* [Lipschitz Lifelong Reinforcement Learning](https://arxiv.org/abs/2001.05411). Erwan Lecarpentier, David Abel, Kavosh Asadi, Yuu Jinnai, Emmanuel Rachelson, and Michael L. Littman. arXiv:2001.05411, submitted January 2020.
+* [Robotic Grasp Manipulation Using Evolutionary Computing and Deep Reinforcement Learning](https://arxiv.org/abs/2001.05443). Priya Shukla, Hitesh Kumar, and G. C. Nandi. arXiv:2001.05443, submitted January 2020.
 * [Reward Engineering for Object Pick and Place Training](https://arxiv.org/abs/2001.03792). Raghav Nagpal, Achyuthan Unni Krishnan, and Hanshen Yu. arXiv:2001.03792, submitted January 2020.
 * [Sparse Black-box Video Attack with Reinforcement Learning](https://arxiv.org/abs/2001.03754). Huanqian Yan, Xingxing Wei, and Bo Li. arXiv:2001.03754, submitted January 2020.
 * [Learning to drive via Apprenticeship Learning and Deep Reinforcement Learning](https://arxiv.org/abs/2001.03864). Wenhui Huang, Francesco Braghin, and Zhuo Wang. arXiv:2001.03864, submitted January 2020.
